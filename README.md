@@ -4,7 +4,7 @@
 
 
 ## Descrição
-### Implementar um ransomware para criptografar um arquivo utilizando a linguagem Pyton.
+### Implemente um ransomware para criptografar um arquivo utilizando a linguagem Pyton.
 
 
 ## Arquivos do projeto:
