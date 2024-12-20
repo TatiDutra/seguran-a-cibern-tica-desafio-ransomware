@@ -1,4 +1,4 @@
-# seguran-a-cibern-tica-desafio-ransomware
+# seguranca-cibernetica-desafio-ransomware
 Criando um ransomware.
 # Criando um Ransomware
 
