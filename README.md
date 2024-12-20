@@ -11,6 +11,6 @@
 
 **criptografador.py:** código que irá criptografar o arquivo
 
-**decrypter.py:** código que irá descriptografar o arquivo criptografado
+**decrypter.py:** código que irá descriptografar o arquivo
 
 **teste.txt:** arquivo que vai ser trabalhado no projeto
