@@ -1,9 +1,9 @@
 # Criando um Ransomware
 
 ## Descrição
-###Implementar um ransomware para criptografar um arquivo utilizando a linguagem Pyton.
+### Implementar um ransomware para criptografar um arquivo utilizando a linguagem Pyton.
 
-##Arquivos do projeto:
+## Arquivos do projeto:
 
 **criptografador.py:** código que irá criptografar o arquivo
 
